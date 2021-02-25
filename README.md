@@ -7,4 +7,4 @@ HyperText Markup Language (HTML)
 <p><span style="color: red;">text</span>.
   
  `em` - relative to parent element
- `rem`  - relative to root (html)
+ <p>`rem`  - relative to root (html)
