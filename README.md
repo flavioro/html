@@ -5,3 +5,5 @@ HyperText Markup Language (HTML)
 
 <span style="color:blue">some *blue* text</span>.
 <p><span style="color: red;">text</span>.
+  
+  <p>span style="color:blue">some *blue* text</span>.
